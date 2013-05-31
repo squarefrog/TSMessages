@@ -83,7 +83,7 @@
         "contentFontSize": 12,
         "contentTextColor": "#FFFFFF",
         "imageName": "NotificationBackgroundMailIcon.png",
-        "shadowColor": "#25121b",
+        "shadowColor": "#000000",
         "shadowOffsetX": 0,
         "shadowOffsetY": 1,
         "textColor": "#FFFFFF",
