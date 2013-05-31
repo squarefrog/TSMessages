@@ -116,6 +116,11 @@ static NSMutableDictionary *_notificationDesign;
                 currentString = @"warning";
                 break;
             }
+            case TSMessageNotificationTypeMail:
+            {
+                currentString = @"mail";
+                break;
+            }
                 
             default:
                 break;
